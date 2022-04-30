@@ -1,0 +1,34 @@
+{
+  "name": "greek-flag",
+  "version": "1.0.0",
+  "description": "Print the Greek flag to the console!",
+  "main": "./src/index.js",
+  "bin": {
+    "greek-flag": "./src/cli.js"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spirometaxas/usa-flag.git"
+  },
+  "scripts": {
+    "cli": "node ./src/cli.js"
+  },
+  "author": "Spiro Metaxas",
+  "license": "MIT",
+  "keywords": [
+    "Greece",
+    "Greek",
+    "greek-flag",
+    "flags",
+    "world flags",
+    "cli",
+    "console",
+    "unicode"
+  ],
+  "dependencies": {
+    "euro-flags": "^1.0.0"
+  }
+}
