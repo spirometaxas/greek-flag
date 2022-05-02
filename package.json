@@ -1,6 +1,6 @@
 {
   "name": "greek-flag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print the Greek flag to the console!",
   "main": "./src/index.js",
   "bin": {
