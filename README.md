@@ -66,7 +66,7 @@ $ greek-flag --color=dark
 Parameters can be mixed together to display your preferred version
 ![What greek-flag prints to the console](https://raw.githubusercontent.com/spirometaxas/greek-flag/main/img/greek-flag-6.png)
 
-##### Ζητώ η Ελλάς!
+### Ζήτω η Ελλάς!
 
 ## Related
 - [euro-flags](https://www.npmjs.com/package/euro-flags) - Print the flags of 28 European countries to the console!
