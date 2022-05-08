@@ -1,6 +1,6 @@
 {
   "name": "greek-flag",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Print the Greek flag to the console!",
   "main": "./src/index.js",
   "bin": {
@@ -26,6 +26,8 @@
     "world flags",
     "cli",
     "console",
+    "terminal",
+    "shell",
     "unicode"
   ],
   "dependencies": {
